@@ -1,4 +1,4 @@
 # 3D-genome
 
 
-[--> click here to view the quality control HTML file](https://htmlpreview.github.io/?https://github.com/ioneliabuzatu/3D-genome/blob/main/multiqc_report.html)
+[--> click here to view the quality control HTML file](https://www.dropbox.com/s/2ng331jqfdwa11m/multiqc_report.html?dl=0)
